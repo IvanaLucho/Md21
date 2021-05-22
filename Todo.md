@@ -1,4 +1,4 @@
-![](../images/itam_logo.png)
+![](md21/images/itam_logo.png)
 
 M. Sc. Liliana Millán Núñez liliana.millan@itam.mx
 
@@ -44,7 +44,7 @@ Febrero 2021
 
 #### Datos relevantes y suficientes
 
-![](../images/relevancia_suficiencia.png)
+![](md21/images/relevancia_suficiencia.png)
 <br>
 Fuente: [DSAPP](http://dsapp.uchicago.edu/)
 
